@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.7"/>
+	<classpathentry kind="lib" path="/home/wesleysantos/Documents/USP/Terceiro Semestre/COO/biblioteca-heranca-JDBC/mysql-connector-java-5.1.41-bin.jar"/>
+	<classpathentry kind="lib" path="/home/wesleysantos/Documents/USP/Terceiro Semestre/COO/libs/seaglass-demo.jar"/>
+	<classpathentry kind="lib" path="/home/wesleysantos/Documents/USP/Terceiro Semestre/COO/libs/synthetica.jar"/>
+	<classpathentry kind="lib" path="/home/wesleysantos/Documents/USP/Terceiro Semestre/COO/libs/syntheticaAluOxide.jar"/>
+	<classpathentry kind="lib" path="/home/wesleysantos/Documents/USP/Terceiro Semestre/COO/libs/syntheticaBlackEye.jar"/>
+	<classpathentry kind="lib" path="/home/wesleysantos/Documents/USP/Terceiro Semestre/COO/libs/syntheticaBlackMoon.jar"/>
+	<classpathentry kind="lib" path="/home/wesleysantos/Documents/USP/Terceiro Semestre/COO/libs/syntheticaBlackStar.jar"/>
+	<classpathentry kind="lib" path="/home/wesleysantos/Documents/USP/Terceiro Semestre/COO/libs/syntheticaBlueMoon.jar"/>
+	<classpathentry kind="lib" path="/home/wesleysantos/Documents/USP/Terceiro Semestre/COO/libs/syntheticaClassy.jar"/>
+	<classpathentry kind="lib" path="/home/wesleysantos/Documents/USP/Terceiro Semestre/COO/libs/syntheticaOrangeMetallic.jar"/>
+	<classpathentry kind="lib" path="/home/wesleysantos/Documents/USP/Terceiro Semestre/COO/libs/syntheticaPlain.jar"/>
+	<classpathentry kind="lib" path="/home/wesleysantos/Documents/USP/Terceiro Semestre/COO/libs/weblaf-complete-1.29.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>

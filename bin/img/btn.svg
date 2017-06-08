@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg8"
+   sodipodi:docname="btn.svg"
+   inkscape:export-filename="/home/bruno_yuji/back.png"
+   inkscape:export-xdpi="27.1"
+   inkscape:export-ydpi="27.1"
+   inkscape:version="0.92.0 r15299">
+  <defs
+     id="defs2">
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient4594">
+      <stop
+         style="stop-color:#ff6600;stop-opacity:1;"
+         offset="0"
+         id="stop4590" />
+      <stop
+         style="stop-color:#ffb380;stop-opacity:0"
+         offset="1"
+         id="stop4592" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient4497">
+      <stop
+         style="stop-color:#ff9955;stop-opacity:1;"
+         offset="0"
+         id="stop4493" />
+      <stop
+         id="stop4501"
+         offset="0.74701995"
+         style="stop-color:#ff9955;stop-opacity:0.65098039;" />
+      <stop
+         style="stop-color:#ff9955;stop-opacity:0;"
+         offset="1"
+         id="stop4495" />
+    </linearGradient>
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4497"
+       id="radialGradient4499"
+       cx="103.02786"
+       cy="100.90055"
+       fx="103.02786"
+       fy="100.90055"
+       r="57.891369"
+       gradientTransform="matrix(14.984429,-5.6210463e-7,0,0.33001135,-1443.461,68.666022)"
+       gradientUnits="userSpaceOnUse" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4594"
+       id="radialGradient4598"
+       cx="105.26637"
+       cy="102.34226"
+       fx="105.26637"
+       fy="102.34226"
+       r="57.891369"
+       gradientTransform="matrix(1,0,0,0.29159706,-3.908809e-7,72.499556)"
+       gradientUnits="userSpaceOnUse" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4497"
+       id="radialGradient4600"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(14.984429,-5.6210463e-7,0,0.33001135,-1443.461,68.666022)"
+       cx="103.35578"
+       cy="102.04587"
+       fx="103.35578"
+       fy="102.04587"
+       r="57.891369" />
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1.4"
+     inkscape:cx="392.64464"
+     inkscape:cy="652.74051"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1920"
+     inkscape:window-height="995"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <rect
+       style="opacity:1;fill:url(#radialGradient4499);fill-opacity:1;fill-rule:nonzero;stroke:#ff6600;stroke-width:0.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.58039216;paint-order:normal"
+       id="rect4491"
+       width="115.28274"
+       height="33.261906"
+       x="58.086155"
+       y="85.136223"
+       inkscape:export-xdpi="27.1"
+       inkscape:export-ydpi="27.1"
+       inkscape:export-filename="/home/bruno_yuji/removeAdpng.png" />
+    <rect
+       y="85.136223"
+       x="58.086155"
+       height="33.261906"
+       width="115.28274"
+       id="rect4546"
+       style="opacity:1;fill:url(#radialGradient4600);fill-opacity:1;fill-rule:nonzero;stroke:url(#radialGradient4598);stroke-width:0.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.58039216;paint-order:normal"
+       inkscape:export-xdpi="27.1"
+       inkscape:export-ydpi="27.1"
+       inkscape:export-filename="/home/bruno_yuji/removeAdpng.png" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:18.52474213px;line-height:11.57796288px;font-family:Arial;-inkscape-font-specification:'Arial Bold';letter-spacing:0px;word-spacing:0px;fill:#e6e6e6;fill-opacity:1;stroke:none;stroke-width:0.46311852"
+       x="59.705555"
+       y="108.39736"
+       id="text5972"
+       inkscape:export-filename="/home/bruno_yuji/removeAdpng.png"
+       inkscape:export-xdpi="27.1"
+       inkscape:export-ydpi="27.1"><tspan
+         sodipodi:role="line"
+         id="tspan5970"
+         x="59.705555"
+         y="108.39736"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Arial;-inkscape-font-specification:'Arial Bold';fill:#e6e6e6;fill-opacity:1;stroke-width:0.46311852">REMOVE AD</tspan></text>
+  </g>
+</svg>
